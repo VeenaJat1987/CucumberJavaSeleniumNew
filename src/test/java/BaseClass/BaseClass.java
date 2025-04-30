@@ -22,7 +22,7 @@ public class BaseClass {
     public Demoblaze demoblaze;
     public Properties prop;
     public static Logger logger;
-    //excel data
+    ////excel data
     public String excelpath =".//src/test/java/resource/Demoblaze.xlsx";
    public  Yaml yaml;
     public Map<String, Object> data;
